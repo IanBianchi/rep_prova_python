@@ -2,11 +2,11 @@
 
 print('Questo è un file python')
 
-a=2
-b=3
+a = 2
+b = 3
 
-print('a =',a)
-print('b =',b)
-print('a+b =',a+b)
+print('a =', a)
+print('b =', b)
+print('a+b =', a + b)
 
 print('return 0')
